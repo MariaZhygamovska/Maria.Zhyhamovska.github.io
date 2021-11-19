@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>sabaton</title>
+</head>
+<body>
+<body style="background-color:#90EE90;">
+
+<center><h1><img src="https://ireland.apollo.olxcdn.com/v1/files/2gg8zql4yzg92-UA/image;s=644x461" style="width:60%;"></h1>
+<center><table width="80%";>
+  <tr>
+  <th width="20%"></th>
+  <th>
+  <h5>Discography</h5>
+  </th>
+  <th width="10%" align="right"></th>
+  </tr>
+   <tr>
+    <td><b>Title</b></td>
+    <td><b>Theme</b></td>
+    <td><b>Length</b></td>
+  <tr>
+  <td></td>
+  <td>
+    <i>Primo Victoria</i>
+  </td>
+  <td></td>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=zRAgpYetGn8&list=OLAK5uy_mGTOPf32O20mJVvKk7t7gRIx-mqWfn4vo">"Primo Victoria"</a></td>
+    <td>Operation Overlord from the allied perspective</td>
+    <td>4:10</td>
+    </tr>
+    <tr>
+    <td><a href="https://www.youtube.com/watch?v=Z7XdML2XOWk&list=OLAK5uy_mGTOPf32O20mJVvKk7t7gRIx-mqWfn4vo&index=2">"Reign of Terror"</a></td>
+    <td>Saddam Hussein and Operation Desert Storm</td>
+    <td>3:51</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=LqqxZbXsxic&list=OLAK5uy_mGTOPf32O20mJVvKk7t7gRIx-mqWfn4vo&index=3">"Panzer Battalion"</a></td>
+    <td>Operation Iraqi Freedom and the American armored battalion that led the invasion</td>
+    <td>5:09</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=fizF9Kmrioo&list=OLAK5uy_mGTOPf32O20mJVvKk7t7gRIx-mqWfn4vo&index=4">"Wolfpack"</a></td>
+    <td>Wolfpack Hecht's attack on Convoy ON 92 in the Battle of the Atlantic</td>
+    <td>5:55</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=sQ7bhiUsBWw&list=OLAK5uy_mGTOPf32O20mJVvKk7t7gRIx-mqWfn4vo&index=5">"Counterstrike"</a></td>
+    <td>The Six-Day War</td>
+    <td>3:48</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=0sjqmXhJFwc&list=OLAK5uy_mGTOPf32O20mJVvKk7t7gRIx-mqWfn4vo&index=6">"Stalingrad"</a></td>
+    <td>The Battle of Stalingrad</td>
+    <td>5:18</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=CzMqq5dF-is&list=OLAK5uy_mGTOPf32O20mJVvKk7t7gRIx-mqWfn4vo&index=7">"Into the Fire"</a></td>
+    <td>The use of napalm in the Vietnam War from the American perspective</td>
+    <td>3:25</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=e8c72HOQv0U&list=OLAK5uy_mGTOPf32O20mJVvKk7t7gRIx-mqWfn4vo&index=8">"Purple Heart"</a></td>
+    <td>Service members that were Wounded In Action and thus awarded the Purple Heart</td>
+    <td>5:07</td>
+  </tr>
+   <tr>
+    <td><a href="https://www.youtube.com/watch?v=bKoDJhNskGU&list=OLAK5uy_mGTOPf32O20mJVvKk7t7gRIx-mqWfn4vo&index=9">"Metal Machine"</a></td>
+    <td>A tribute to heavy metal</td>
+    <td>4:22</td>
+  </tr>
+  <tr>
+  <td></td>
+  <td>
+    <i>"Attero Dominatus"</i>
+  </td>
+  </tr>
+  <td></td>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=eNlRqyUV4ss&list=OLAK5uy_mJBcH0mZSmru-8wcIlCMpofp0gfbNmcTQ&index=1">"Attero Dominatus"</a></td>
+    <td>About the Battle of Berlin from the Soviet perspective</td>
+    <td>3:43</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=rOCrbx0wF04&list=OLAK5uy_mJBcH0mZSmru-8wcIlCMpofp0gfbNmcTQ&index=2">"Nuclear Attack"</a></td>
+    <td>About Hiroshima and Nagasaki</td>
+    <td>4:09</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=6bLbJcVL9c4&list=OLAK5uy_mJBcH0mZSmru-8wcIlCMpofp0gfbNmcTQ&index=3">"Rise of Evil"</a></td>
+    <td>The events surrounding the creation of the Third Reich and the events leading to World War II, from the Nazis' perspective</td>
+    <td>8:19</td>
+  </tr>
+   <tr>
+    <td><a href="https://www.youtube.com/watch?v=kt2GWulEm1M&list=OLAK5uy_mJBcH0mZSmru-8wcIlCMpofp0gfbNmcTQ&index=4">"In the Name of God"</a></td>
+    <td>About terrorism, especially religious terrorism, from the perspective of those opposed to their actions</td>
+    <td>4:06</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=rZQmm2IO2A4&list=OLAK5uy_mJBcH0mZSmru-8wcIlCMpofp0gfbNmcTQ&index=5">"We Burn"</a></td>
+    <td>About crimes in the Yugoslav Wars from the perspective of those committing them</td>
+    <td>2:55</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=Ubq_wj6kJGk&list=OLAK5uy_mJBcH0mZSmru-8wcIlCMpofp0gfbNmcTQ&index=6">"Angels Calling"</a></td>
+    <td>About the horror of World War I</td>
+    <td>5:57</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=MvU2fxMGN4Y&list=OLAK5uy_mJBcH0mZSmru-8wcIlCMpofp0gfbNmcTQ&index=7">"Back in Control"</a></td>
+    <td>About the Falklands War from the British perspective</td>
+    <td>3:14</td>
+  </tr>
+   <tr>
+    <td><a href="https://www.youtube.com/watch?v=CGqWSAjmj3k&list=OLAK5uy_mJBcH0mZSmru-8wcIlCMpofp0gfbNmcTQ&index=8">"Light in the Black"</a></td>
+    <td>About peacekeeping forces, such as that of the UN</td>
+    <td>4:52</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=7Hd1QSARzSc&list=OLAK5uy_mJBcH0mZSmru-8wcIlCMpofp0gfbNmcTQ&index=9">"Metal Crüe"</a></td>
+    <td>About heavy metal, it is built up entirely by famous band names</td>
+    <td>3:42</td>
+  </tr>
+
+</table>
+</center>
+
+</body>
+</html>
